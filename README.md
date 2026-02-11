@@ -1,6 +1,6 @@
 # Laravel Demo Sida
 
-![Screenshot](.images/startsida-laravel.png)
+![Screenshot](public/images/startsida-laravel.png)
 
 Detta är en demo-webbsida byggd med **Laravel** och **Tailwind CSS** som visar både frontend- och backend-färdigheter. Sidan är responsiv, har en clean design och innehåller exempelprojekt med bilder.  
 **Backend:** MySQL med phpMyAdmin, migrations och seeders.
